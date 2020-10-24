@@ -1,0 +1,5 @@
+Contributors:
+   [name] [username]
+
+Copyright holders:
+   Copyright [yyyy] [name of copyright owner]
